@@ -17,6 +17,7 @@ public class BasePage
     {
         Page = page;
     }
+
     //Метод перехода на сайт 
     public async ValueTask GoUrl()
     {
